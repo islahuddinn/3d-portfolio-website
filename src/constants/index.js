@@ -1,4 +1,3 @@
-import { faWix } from "@fortawesome/free-brands-svg-icons";
 import {
     mobile,
     backend,
